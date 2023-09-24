@@ -1,1 +1,2 @@
-# II_ThomasBradley_Pr01
+# Practica 01: Introducción a Unity
+- GIF con el funcionamiento del Script:
